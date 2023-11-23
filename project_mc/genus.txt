@@ -1,0 +1,476 @@
+stone				
+	stone			
+		stone		
+			石头	minecraft:stone
+			圆石属	minecraft:cobblestone,minecraft:mossy_cobblestone
+			平滑石头	minecraft:smooth_stone
+			石砖属	minecraft:stone_bricks,minecraft:chiseled_stone_bricks,minecraft:cracked_stone_bricks,minecraft:mossy_stone_bricks
+		deepslate		
+			深板岩属	minecraft:deepslate,minecraft:chiseled_deepslate,minecraft:polished_deepslate
+			深板岩砖属	minecraft:deepslate_bricks,minecraft:deepslate_tiles,minecraft:cracked_deepslate_bricks,minecraft:cracked_deepslate_tiles
+			深板岩圆石	minecraft:cobbled_deepslate
+		blackstone		
+			黑石	minecraft:blackstone
+			镶金黑石	minecraft:gilded_blackstone
+			磨制黑石属	minecraft:polished_blackstone,minecraft:chiseled_polished_blackstone
+			磨制黑石砖属	minecraft:polished_blackstone_bricks,minecraft:cracked_polished_blackstone_bricks
+		ice		
+			冰	minecraft:ice
+			浮冰	minecraft:packed_ice
+			蓝冰	minecraft:blue_ice
+		mainworld		
+			安山岩属	minecraft:andesite,minecraft:polished_andesite
+			闪长岩属	minecraft:diorite,minecraft:polished_diorite
+			花岗岩属	minecraft:granite,minecraft:polished_granite
+			凝灰岩	minecraft:tuff
+			方解石	minecraft:calcite
+			滴水石块	minecraft:dripstone_block
+			滴水石锥	minecraft:pointed_dripstone
+			海晶石属	minecraft:prismarine,minecraft:dark_prismarine,minecraft:prismarine_bricks
+			砂岩属	minecraft:sandstone,minecraft:red_sandstone,minecraft:chiseled_red_sandstone,minecraft:chiseled_sandstone,minecraft:cut_red_sandstone,minecraft:cut_sandstone,minecraft:smooth_red_sandstone,minecraft:smooth_sandstone
+		nether		
+			下界岩	minecraft:netherrack
+			黑曜石	minecraft:obsidian
+			哭泣的黑曜石	minecraft:crying_obsidian
+			菌岩属	minecraft:warped_nylium,minecraft:crimson_nylium
+			岩浆块	minecraft:magma_block
+			玄武岩属	minecraft:basalt,minecraft:polished_basalt,minecraft:smooth_basalt
+		end		
+			末地石	minecraft:end_stone
+			末地石砖	minecraft:end_stone_bricks
+			紫珀块属	minecraft:purpur_block,minecraft:purpur_pillar
+	sand			
+		sand		
+			沙子属	minecraft:sand,minecraft:red_sand
+			沙砾	minecraft:gravel
+		soul_sand		
+			灵魂沙	minecraft:soul_sand
+			灵魂土	minecraft:soul_soil
+		snow		
+			雪	minecraft:snow
+			雪球	minecraft:snowball
+			雪块	minecraft:snow_block
+	dirt			
+		dirt		
+			泥土	minecraft:dirt
+			砂土	minecraft:coarse_dirt
+			灰化土	minecraft:podzol
+			菌丝体	minecraft:mycelium
+			草方块	minecraft:grass_block
+			苔藓块	minecraft:moss_block
+			缠根泥土	minecraft:rooted_dirt
+		mud		
+			泥巴	minecraft:mud
+			泥砖	minecraft:mud_bricks
+			泥坯	minecraft:packed_mud
+		brick		
+			红砖	minecraft:brick
+			黏土球	minecraft:clay_ball
+			黏土块	minecraft:clay
+			红砖块	minecraft:bricks
+			下界砖	minecraft:nether_brick
+			下界砖块属	minecraft:nether_bricks,minecraft:red_nether_bricks,minecraft:chiseled_nether_bricks,minecraft:cracked_nether_bricks
+life				
+	plant			
+		tree		
+			树苗属	minecraft:birch_sapling,minecraft:dark_oak_sapling,minecraft:jungle_sapling,minecraft:oak_sapling,minecraft:spruce_sapling,minecraft:mangrove_propagule,minecraft:acacia_sapling
+			紫颂花	minecraft:chorus_flower
+			树叶属	minecraft:birch_leaves,minecraft:dark_oak_leaves,minecraft:jungle_leaves,minecraft:oak_leaves,minecraft:spruce_leaves,minecraft:mangrove_leaves,minecraft:acacia_leaves,minecraft:azalea_leaves,minecraft:flowering_azalea_leaves
+			杜鹃花丛属	minecraft:azalea,minecraft:flowering_azalea
+			红树根	minecraft:mangrove_roots
+			沾泥的红树根	minecraft:muddy_mangrove_roots
+			垂根	minecraft:hanging_roots
+		grass		
+			草丛属	minecraft:grass,minecraft:tall_grass,minecraft:fern,minecraft:large_fern
+			花属	minecraft:poppy,minecraft:azure_bluet,minecraft:blue_orchid,minecraft:dandelion,minecraft:allium,minecraft:orange_tulip,minecraft:pink_tulip,minecraft:red_tulip,minecraft:white_tulip,minecraft:cornflower,minecraft:oxeye_daisy,minecraft:lily_of_the_valley,minecraft:wither_rose,minecraft:rose_bush,minecraft:sunflower,minecraft:peony,minecraft:lilac
+			海带	minecraft:kelp
+			海草	minecraft:seagrass
+			甘蔗	minecraft:sugar_cane
+			海泡菜	minecraft:sea_pickle
+			仙人掌	minecraft:cactus
+		single_plant		
+			睡莲	minecraft:lily_pad
+			孢子花	minecraft:spore_blossom
+			枯萎的灌木	minecraft:dead_bush
+		crop		
+			小麦	minecraft:wheat
+			干草捆	minecraft:hay_block
+			南瓜属	minecraft:pumpkin,minecraft:carved_pumpkin
+			可可豆	minecraft:cocoa_beans
+			小麦种子	minecraft:wheat_seeds
+			甜菜种子	minecraft:beetroot_seeds
+			南瓜种子	minecraft:pumpkin_seeds
+			西瓜种子	minecraft:melon_seeds
+	fungi			
+		mushroom		
+			蘑菇属	minecraft:red_mushroom,minecraft:brown_mushroom
+			蘑菇方块属	minecraft:red_mushroom_block,minecraft:brown_mushroom_block,minecraft:mushroom_stem
+		fungus		
+			下界苗	minecraft:nether_sprouts
+			菌索属	minecraft:warped_roots,minecraft:crimson_roots
+			菌类属	minecraft:warped_fungus,minecraft:crimson_fungus
+			下界疣块属	minecraft:warped_wart_block,minecraft:nether_wart_block
+	aminal			
+		bee		
+			蜂巢属	minecraft:bee_nest,minecraft:beehive
+			蜜脾	minecraft:honeycomb
+			蜜脾块	minecraft:honeycomb_block
+		coral		
+			珊瑚属	minecraft:brain_coral,minecraft:fire_coral,minecraft:horn_coral,minecraft:tube_coral,minecraft:bubble_coral,minecraft:dead_bubble_coral,minecraft:dead_brain_coral,minecraft:dead_fire_coral,minecraft:dead_horn_coral,minecraft:dead_tube_coral
+			珊瑚块属	minecraft:brain_coral_block,minecraft:fire_coral_block,minecraft:horn_coral_block,minecraft:bubble_coral_block,minecraft:tube_coral_block,minecraft:dead_bubble_coral_block,minecraft:dead_fire_coral_block,minecraft:dead_tube_coral_block,minecraft:dead_horn_coral_block,minecraft:dead_brain_coral_block
+			珊瑚扇属	minecraft:brain_coral_fan,minecraft:bubble_coral_fan,minecraft:fire_coral_fan,minecraft:horn_coral_fan,minecraft:tube_coral_fan,minecraft:dead_fire_coral_fan,minecraft:dead_bubble_coral_fan,minecraft:dead_horn_coral_fan,minecraft:dead_brain_coral_fan,minecraft:dead_tube_coral_fan
+		sponge		
+			海绵属	minecraft:sponge,minecraft:wet_sponge
+		egg		
+			鸡蛋	minecraft:egg
+			海龟蛋	minecraft:turtle_egg
+	mob			
+		head		
+			生物头颅属	minecraft:skeleton_skull,minecraft:wither_skeleton_skull,minecraft:zombie_head,minecraft:creeper_head,minecraft:dragon_head
+		bone		
+			骨头	minecraft:bone
+			骨粉	minecraft:bone_meal
+			骨块	minecraft:bone_block
+		dragon_egg		
+			龙蛋	minecraft:dragon_egg
+build				
+	build			
+		ladder		
+			楼梯属	minecraft:birch_stairs,minecraft:acacia_stairs,minecraft:crimson_stairs,minecraft:dark_oak_stairs,minecraft:jungle_stairs,minecraft:oak_stairs,minecraft:spruce_stairs,minecraft:warped_stairs,minecraft:mangrove_stairs,minecraft:cut_copper_stairs,minecraft:exposed_cut_copper_stairs,minecraft:oxidized_cut_copper_stairs,minecraft:waxed_cut_copper_stairs,minecraft:waxed_exposed_cut_copper_stairs,minecraft:waxed_oxidized_cut_copper_stairs,minecraft:waxed_weathered_cut_copper_stairs,minecraft:weathered_cut_copper_stairs,minecraft:stone_stairs,minecraft:cobblestone_stairs,minecraft:mossy_cobblestone_stairs,minecraft:stone_brick_stairs,minecraft:mossy_stone_brick_stairs,minecraft:andesite_stairs,minecraft:diorite_stairs,minecraft:granite_stairs,minecraft:polished_andesite_stairs,minecraft:polished_diorite_stairs,minecraft:polished_granite_stairs,minecraft:red_sandstone_stairs,minecraft:sandstone_stairs,minecraft:smooth_red_sandstone_stairs,minecraft:smooth_sandstone_stairs,minecraft:quartz_stairs,minecraft:smooth_quartz_stairs,minecraft:brick_stairs,minecraft:mud_brick_stairs,minecraft:end_stone_brick_stairs,minecraft:purpur_stairs,minecraft:nether_brick_stairs,minecraft:red_nether_brick_stairs,minecraft:dark_prismarine_stairs,minecraft:prismarine_stairs,minecraft:prismarine_brick_stairs,minecraft:blackstone_stairs,minecraft:polished_blackstone_brick_stairs,minecraft:polished_blackstone_stairs,minecraft:cobbled_deepslate_stairs,minecraft:deepslate_brick_stairs,minecraft:polished_deepslate_stairs,minecraft:deepslate_tile_stairs
+			台阶属	minecraft:birch_slab,minecraft:acacia_slab,minecraft:dark_oak_slab,minecraft:crimson_slab,minecraft:jungle_slab,minecraft:oak_slab,minecraft:spruce_slab,minecraft:warped_slab,minecraft:mangrove_slab,minecraft:cut_copper_slab,minecraft:exposed_cut_copper_slab,minecraft:oxidized_cut_copper_slab,minecraft:waxed_cut_copper_slab,minecraft:waxed_exposed_cut_copper_slab,minecraft:waxed_oxidized_cut_copper_slab,minecraft:waxed_weathered_cut_copper_slab,minecraft:weathered_cut_copper_slab,minecraft:cobblestone_slab,minecraft:mossy_cobblestone_slab,minecraft:smooth_stone_slab,minecraft:stone_slab,minecraft:stone_brick_slab,minecraft:mossy_stone_brick_slab,minecraft:andesite_slab,minecraft:diorite_slab,minecraft:granite_slab,minecraft:polished_andesite_slab,minecraft:polished_diorite_slab,minecraft:polished_granite_slab,minecraft:sandstone_slab,minecraft:smooth_sandstone_slab,minecraft:cut_sandstone_slab,minecraft:red_sandstone_slab,minecraft:smooth_red_sandstone_slab,minecraft:cut_red_sandstone_slab,minecraft:quartz_slab,minecraft:smooth_quartz_slab,minecraft:brick_slab,minecraft:end_stone_brick_slab,minecraft:purpur_slab,minecraft:nether_brick_slab,minecraft:red_nether_brick_slab,minecraft:mud_brick_slab,minecraft:prismarine_brick_slab,minecraft:prismarine_slab,minecraft:dark_prismarine_slab,minecraft:polished_blackstone_brick_slab,minecraft:blackstone_slab,minecraft:polished_blackstone_slab,minecraft:deepslate_brick_slab,minecraft:polished_deepslate_slab,minecraft:cobbled_deepslate_slab,minecraft:deepslate_tile_slab
+			梯子	minecraft:ladder
+			脚手架	minecraft:scaffolding
+			缠怨藤	minecraft:twisting_vines
+			藤蔓	minecraft:vine
+			垂泪藤	minecraft:weeping_vines
+			蜘蛛网	minecraft:cobweb
+		fence		
+			栅栏属	minecraft:birch_fence,minecraft:crimson_fence,minecraft:acacia_fence,minecraft:dark_oak_fence,minecraft:jungle_fence,minecraft:oak_fence,minecraft:spruce_fence,minecraft:warped_fence,minecraft:mangrove_fence,minecraft:nether_brick_fence
+			墙属	minecraft:cobblestone_wall,minecraft:mossy_cobblestone_wall,minecraft:mossy_stone_brick_wall,minecraft:stone_brick_wall,minecraft:andesite_wall,minecraft:diorite_wall,minecraft:granite_wall,minecraft:red_sandstone_wall,minecraft:sandstone_wall,minecraft:brick_wall,minecraft:end_stone_brick_wall,minecraft:nether_brick_wall,minecraft:red_nether_brick_wall,minecraft:mud_brick_wall,minecraft:prismarine_wall,minecraft:blackstone_wall,minecraft:polished_blackstone_brick_wall,minecraft:polished_blackstone_wall,minecraft:cobbled_deepslate_wall,minecraft:deepslate_brick_wall,minecraft:polished_deepslate_wall,minecraft:deepslate_tile_wall
+			铁栏杆	minecraft:iron_bars
+			锁链	minecraft:chain
+		light		
+			火把属	minecraft:torch,minecraft:soul_torch
+			菌光体	minecraft:shroomlight
+			荧石	minecraft:glowstone
+			发光浆果	minecraft:glow_berries
+			发光地衣	minecraft:glow_lichen
+			末地烛	minecraft:end_rod
+			南瓜灯	minecraft:jack_o_lantern
+			海晶灯	minecraft:sea_lantern
+			蛙明灯属	minecraft:ochre_froglight,minecraft:pearlescent_froglight,minecraft:verdant_froglight
+			营火属	minecraft:soul_campfire,minecraft:campfire
+			灯笼属	minecraft:soul_lantern,minecraft:lantern
+		landmark		
+			信标	minecraft:beacon
+			钟	minecraft:bell
+			重生锚	minecraft:respawn_anchor
+			下界之星	minecraft:nether_star
+			磁石	minecraft:lodestone
+			鹦鹉螺壳	minecraft:nautilus_shell
+			海洋之心	minecraft:heart_of_the_sea
+			潮涌核心	minecraft:conduit
+	gui			
+		work_table		
+			工作台	minecraft:crafting_table
+			锻造台	minecraft:smithing_table
+			切石机	minecraft:stonecutter
+			织布机	minecraft:loom
+			讲台	minecraft:lectern
+			砂轮	minecraft:grindstone
+			熔炉	minecraft:furnace
+			高炉	minecraft:blast_furnace
+			制图台	minecraft:cartography_table
+			堆肥桶	minecraft:composter
+			制箭台	minecraft:fletching_table
+			烟熏炉	minecraft:smoker
+			铁砧属	minecraft:anvil,minecraft:chipped_anvil,minecraft:damaged_anvil
+		chest		
+			箱子	minecraft:chest
+			陷阱箱	minecraft:trapped_chest
+			末影箱	minecraft:ender_chest
+			木桶	minecraft:barrel
+			盔甲架	minecraft:armor_stand
+			花盆	minecraft:flower_pot
+	traffic			
+		minecart		
+			矿车	minecraft:minecart
+			运输矿车	minecraft:chest_minecart
+			动力矿车	minecraft:furnace_minecart
+			TNT矿车	minecraft:tnt_minecart
+			漏斗矿车	minecraft:hopper_minecart
+		rail		
+			铁轨	minecraft:rail
+			探测铁轨	minecraft:detector_rail
+			激活铁轨	minecraft:activator_rail
+			动力铁轨	minecraft:powered_rail
+		fly		
+			鞘翅	minecraft:elytra
+			末影珍珠	minecraft:ender_pearl
+			紫颂果	minecraft:chorus_fruit
+		ride		
+			鞍	minecraft:saddle
+			马铠属	minecraft:iron_horse_armor,minecraft:leather_horse_armor,minecraft:golden_horse_armor,minecraft:diamond_horse_armor
+			船属	minecraft:birch_boat,minecraft:oak_boat,minecraft:spruce_boat,minecraft:jungle_boat,minecraft:acacia_boat,minecraft:dark_oak_boat,minecraft:mangrove_boat
+			运输船属	minecraft:birch_chest_boat,minecraft:oak_chest_boat,minecraft:spruce_chest_boat,minecraft:jungle_chest_boat,minecraft:acacia_chest_boat,minecraft:dark_oak_chest_boat,minecraft:mangrove_chest_boat
+			钓鱼竿	minecraft:fishing_rod
+			诡异菌钓竿	minecraft:warped_fungus_on_a_stick
+			胡萝卜钓竿	minecraft:carrot_on_a_stick
+	redstone			
+		power		
+			红石火把	minecraft:redstone_torch
+			侦测器	minecraft:observer
+			绊线钩	minecraft:tripwire_hook
+			线	minecraft:string
+			拉杆	minecraft:lever
+			阳光探测器	minecraft:daylight_detector
+			避雷针	minecraft:lightning_rod
+			标靶	minecraft:target
+			红石块	minecraft:redstone_block
+			按钮属	minecraft:birch_button,minecraft:acacia_button,minecraft:crimson_button,minecraft:dark_oak_button,minecraft:jungle_button,minecraft:oak_button,minecraft:spruce_button,minecraft:warped_button,minecraft:mangrove_button,minecraft:stone_button,minecraft:polished_blackstone_button
+			压力板属	minecraft:birch_pressure_plate,minecraft:mangrove_pressure_plate,minecraft:warped_pressure_plate,minecraft:spruce_pressure_plate,minecraft:oak_pressure_plate,minecraft:jungle_pressure_plate,minecraft:dark_oak_pressure_plate,minecraft:crimson_pressure_plate,minecraft:acacia_pressure_plate,minecraft:stone_pressure_plate,minecraft:polished_blackstone_pressure_plate,minecraft:heavy_weighted_pressure_plate,minecraft:light_weighted_pressure_plate
+		wire		
+			红石粉	minecraft:redstone
+			红石比较器	minecraft:comparator
+			红石中继器	minecraft:repeater
+		machine		
+			活塞属	minecraft:piston,minecraft:sticky_piston
+			投掷器	minecraft:dropper
+			发射器	minecraft:dispenser
+			黏液球	minecraft:slime_ball
+			黏液块	minecraft:slime_block
+			蜂蜜块	minecraft:honey_block
+			漏斗	minecraft:hopper
+			小型垂滴叶	minecraft:small_dripleaf
+			大型垂滴叶	minecraft:big_dripleaf
+			门属	minecraft:birch_door,minecraft:mangrove_door,minecraft:warped_door,minecraft:spruce_door,minecraft:oak_door,minecraft:jungle_door,minecraft:dark_oak_door,minecraft:crimson_door,minecraft:acacia_door,minecraft:iron_door
+			栅栏门属	minecraft:birch_fence_gate,minecraft:acacia_fence_gate,minecraft:warped_fence_gate,minecraft:jungle_fence_gate,minecraft:crimson_fence_gate,minecraft:mangrove_fence_gate,minecraft:dark_oak_fence_gate,minecraft:oak_fence_gate,minecraft:spruce_fence_gate
+			活板门属	minecraft:birch_trapdoor,minecraft:crimson_trapdoor,minecraft:dark_oak_trapdoor,minecraft:acacia_trapdoor,minecraft:oak_trapdoor,minecraft:jungle_trapdoor,minecraft:spruce_trapdoor,minecraft:warped_trapdoor,minecraft:mangrove_trapdoor,minecraft:iron_trapdoor
+		music		
+			音乐唱片属	minecraft:music_disc_5,minecraft:music_disc_11,minecraft:music_disc_13,minecraft:music_disc_blocks,minecraft:music_disc_cat,minecraft:music_disc_chirp,minecraft:music_disc_far,minecraft:music_disc_mall,minecraft:music_disc_mellohi,minecraft:music_disc_otherside,minecraft:music_disc_pigstep,minecraft:music_disc_stal,minecraft:music_disc_strad,minecraft:music_disc_wait,minecraft:music_disc_ward
+			唱片残片5	minecraft:disc_fragment_5
+			音符盒	minecraft:note_block
+			唱片机	minecraft:jukebox
+			山羊角	minecraft:goat_horn
+		sculk		
+			幽匿块	minecraft:sculk
+			幽匿催发体	minecraft:sculk_catalyst
+			幽匿尖啸体	minecraft:sculk_shrieker
+			幽匿脉络	minecraft:sculk_vein
+			幽匿感测体	minecraft:sculk_sensor
+work				
+	enchant			
+		equipment		
+			附魔台	minecraft:enchanting_table
+			书架	minecraft:bookshelf
+			附魔之瓶	minecraft:experience_bottle
+		book		
+			附魔书	minecraft:enchanted_book
+	craft			
+		material		
+			皮革	minecraft:leather
+			兔子皮	minecraft:rabbit_hide
+			末影之眼	minecraft:ender_eye
+			爆裂紫颂果	minecraft:popped_chorus_fruit
+			海晶碎片	minecraft:prismarine_shard
+			海晶砂粒	minecraft:prismarine_crystals
+			羽毛	minecraft:feather
+			燧石	minecraft:flint
+			墨囊	minecraft:ink_sac
+			荧光墨囊	minecraft:glow_ink_sac
+		wood		
+			原木属	minecraft:birch_log,minecraft:dark_oak_log,minecraft:jungle_log,minecraft:oak_log,minecraft:spruce_log,minecraft:mangrove_log,minecraft:acacia_log,minecraft:crimson_stem,minecraft:warped_stem,minecraft:stripped_acacia_log,minecraft:stripped_birch_log,minecraft:stripped_dark_oak_log,minecraft:stripped_oak_log,minecraft:stripped_spruce_log,minecraft:stripped_jungle_log,minecraft:stripped_mangrove_log,minecraft:stripped_crimson_stem,minecraft:stripped_warped_stem
+			木板属	minecraft:birch_planks,minecraft:dark_oak_planks,minecraft:jungle_planks,minecraft:oak_planks,minecraft:spruce_planks,minecraft:mangrove_planks,minecraft:acacia_planks,minecraft:crimson_planks,minecraft:warped_planks
+			木头属	minecraft:birch_wood,minecraft:dark_oak_wood,minecraft:jungle_wood,minecraft:oak_wood,minecraft:spruce_wood,minecraft:mangrove_wood,minecraft:acacia_wood,minecraft:crimson_hyphae,minecraft:warped_hyphae,minecraft:stripped_acacia_wood,minecraft:stripped_jungle_wood,minecraft:stripped_oak_wood,minecraft:stripped_dark_oak_wood,minecraft:stripped_birch_wood,minecraft:stripped_spruce_wood,minecraft:stripped_mangrove_wood,minecraft:stripped_warped_hyphae,minecraft:stripped_crimson_hyphae
+			木棍	minecraft:stick
+			竹子	minecraft:bamboo
+	mine			
+		ore		
+			铁矿石属	minecraft:iron_ore,minecraft:deepslate_iron_ore
+			煤矿石属	minecraft:deepslate_coal_ore,minecraft:coal_ore
+			铜矿石属	minecraft:deepslate_copper_ore,minecraft:copper_ore
+			青金石矿石属	minecraft:deepslate_lapis_ore,minecraft:lapis_ore
+			金矿石属	minecraft:deepslate_gold_ore,minecraft:gold_ore
+			红石矿石属	minecraft:deepslate_redstone_ore,minecraft:redstone_ore
+			钻石矿石属	minecraft:diamond_ore,minecraft:deepslate_diamond_ore
+			绿宝石矿石属	minecraft:deepslate_emerald_ore,minecraft:emerald_ore
+			下界石英矿石	minecraft:nether_quartz_ore
+			下界金矿石	minecraft:nether_gold_ore
+			远古残骸	minecraft:ancient_debris
+		raw_mine		
+			粗铁	minecraft:raw_iron
+			粗铜	minecraft:raw_copper
+			粗金	minecraft:raw_gold
+			下界合金碎片	minecraft:netherite_scrap
+			金粒	minecraft:gold_nugget
+			铁粒	minecraft:iron_nugget
+			粗铜块	minecraft:raw_copper_block
+			粗金块	minecraft:raw_gold_block
+			粗铁块	minecraft:raw_iron_block
+			紫水晶簇属	minecraft:amethyst_cluster,minecraft:small_amethyst_bud,minecraft:medium_amethyst_bud,minecraft:large_amethyst_bud
+		ingot		
+			铁锭	minecraft:iron_ingot
+			煤炭属	minecraft:coal,minecraft:charcoal
+			铜锭	minecraft:copper_ingot
+			金锭	minecraft:gold_ingot
+			钻石	minecraft:diamond
+			绿宝石	minecraft:emerald
+			青金石	minecraft:lapis_lazuli
+			下界石英	minecraft:quartz
+			紫水晶碎片	minecraft:amethyst_shard
+			下界合金锭	minecraft:netherite_ingot
+		mineral_block		
+			铁块	minecraft:iron_block
+			铜块属	minecraft:copper_block,minecraft:cut_copper,minecraft:exposed_copper,minecraft:exposed_cut_copper,minecraft:oxidized_copper,minecraft:oxidized_cut_copper,minecraft:waxed_copper_block,minecraft:waxed_cut_copper,minecraft:waxed_exposed_copper,minecraft:waxed_exposed_cut_copper,minecraft:waxed_oxidized_copper,minecraft:waxed_oxidized_cut_copper,minecraft:waxed_weathered_copper,minecraft:waxed_weathered_cut_copper,minecraft:weathered_copper,minecraft:weathered_cut_copper
+			煤炭块	minecraft:coal_block
+			青金石块	minecraft:lapis_block
+			钻石块	minecraft:diamond_block
+			绿宝石块	minecraft:emerald_block
+			金块	minecraft:gold_block
+			下界合金块	minecraft:netherite_block
+			石英块属	minecraft:quartz_block,minecraft:chiseled_quartz_block,minecraft:quartz_bricks,minecraft:quartz_pillar,minecraft:smooth_quartz
+			紫水晶块	minecraft:amethyst_block
+	brew			
+		equipment		
+			酿造台	minecraft:brewing_stand
+			炼药锅	minecraft:cauldron
+			烈焰棒	minecraft:blaze_rod
+			烈焰粉	minecraft:blaze_powder
+			玻璃瓶	minecraft:glass_bottle
+			蜂蜜瓶	minecraft:honey_bottle
+		material		
+			下界疣	minecraft:nether_wart
+			荧石粉	minecraft:glowstone_dust
+			发酵蛛眼	minecraft:fermented_spider_eye
+			火药	minecraft:gunpowder
+			龙息	minecraft:dragon_breath
+			糖	minecraft:sugar
+			兔子脚	minecraft:rabbit_foot
+			闪烁的西瓜片	minecraft:glistering_melon_slice
+			蜘蛛眼	minecraft:spider_eye
+			河豚	minecraft:pufferfish
+			岩浆膏	minecraft:magma_cream
+			金胡萝卜	minecraft:golden_carrot
+			恶魂之泪	minecraft:ghast_tear
+			幻翼膜	minecraft:phantom_membrane
+		potion		
+			药水	minecraft:potion
+			喷溅药水	minecraft:splash_potion
+			滞留药水	minecraft:lingering_potion
+			谜之炖菜	minecraft:suspicious_stew
+	stain			
+		dye		
+			染料属	minecraft:light_blue_dye,minecraft:red_dye,minecraft:green_dye,minecraft:blue_dye,minecraft:yellow_dye,minecraft:black_dye,minecraft:white_dye,minecraft:brown_dye,minecraft:cyan_dye,minecraft:light_gray_dye,minecraft:pink_dye,minecraft:lime_dye,minecraft:magenta_dye,minecraft:orange_dye,minecraft:purple_dye,minecraft:gray_dye
+		wool		
+			羊毛属	minecraft:light_blue_wool,minecraft:black_wool,minecraft:blue_wool,minecraft:cyan_wool,minecraft:light_gray_wool,minecraft:lime_wool,minecraft:pink_wool,minecraft:magenta_wool,minecraft:purple_wool,minecraft:green_wool,minecraft:gray_wool,minecraft:red_wool,minecraft:brown_wool,minecraft:orange_wool,minecraft:white_wool,minecraft:yellow_wool
+			覆地苔藓	minecraft:moss_carpet
+			地毯属	minecraft:light_blue_carpet,minecraft:black_carpet,minecraft:blue_carpet,minecraft:brown_carpet,minecraft:cyan_carpet,minecraft:gray_carpet,minecraft:green_carpet,minecraft:light_gray_carpet,minecraft:lime_carpet,minecraft:magenta_carpet,minecraft:orange_carpet,minecraft:pink_carpet,minecraft:purple_carpet,minecraft:red_carpet,minecraft:white_carpet,minecraft:yellow_carpet
+			旗帜图案属	minecraft:globe_banner_pattern,minecraft:flower_banner_pattern,minecraft:creeper_banner_pattern,minecraft:skull_banner_pattern,minecraft:mojang_banner_pattern,minecraft:piglin_banner_pattern
+			旗帜属	minecraft:light_blue_banner,minecraft:black_banner,minecraft:blue_banner,minecraft:brown_banner,minecraft:cyan_banner,minecraft:green_banner,minecraft:gray_banner,minecraft:light_gray_banner,minecraft:lime_banner,minecraft:magenta_banner,minecraft:orange_banner,minecraft:pink_banner,minecraft:purple_banner,minecraft:red_banner,minecraft:white_banner,minecraft:yellow_banner
+			床属	minecraft:light_blue_bed,minecraft:black_bed,minecraft:blue_bed,minecraft:brown_bed,minecraft:cyan_bed,minecraft:gray_bed,minecraft:green_bed,minecraft:light_gray_bed,minecraft:lime_bed,minecraft:magenta_bed,minecraft:orange_bed,minecraft:pink_bed,minecraft:purple_bed,minecraft:red_bed,minecraft:white_bed,minecraft:yellow_bed
+			蜡烛属	minecraft:light_blue_candle,minecraft:black_candle,minecraft:candle,minecraft:blue_candle,minecraft:brown_candle,minecraft:cyan_candle,minecraft:gray_candle,minecraft:green_candle,minecraft:light_gray_candle,minecraft:lime_candle,minecraft:magenta_candle,minecraft:orange_candle,minecraft:pink_candle,minecraft:purple_candle,minecraft:red_candle,minecraft:white_candle,minecraft:yellow_candle
+		build		
+			带釉陶瓦属	minecraft:light_blue_glazed_terracotta,minecraft:black_glazed_terracotta,minecraft:blue_glazed_terracotta,minecraft:cyan_glazed_terracotta,minecraft:magenta_glazed_terracotta,minecraft:lime_glazed_terracotta,minecraft:orange_glazed_terracotta,minecraft:light_gray_glazed_terracotta,minecraft:green_glazed_terracotta,minecraft:brown_glazed_terracotta,minecraft:pink_glazed_terracotta,minecraft:gray_glazed_terracotta,minecraft:red_glazed_terracotta,minecraft:purple_glazed_terracotta,minecraft:white_glazed_terracotta,minecraft:yellow_glazed_terracotta
+			陶瓦属	minecraft:light_blue_terracotta,minecraft:black_terracotta,minecraft:terracotta,minecraft:green_terracotta,minecraft:lime_terracotta,minecraft:blue_terracotta,minecraft:cyan_terracotta,minecraft:light_gray_terracotta,minecraft:magenta_terracotta,minecraft:orange_terracotta,minecraft:pink_terracotta,minecraft:purple_terracotta,minecraft:brown_terracotta,minecraft:red_terracotta,minecraft:gray_terracotta,minecraft:white_terracotta,minecraft:yellow_terracotta
+			混凝土属	minecraft:light_blue_concrete,minecraft:black_concrete,minecraft:blue_concrete,minecraft:brown_concrete,minecraft:gray_concrete,minecraft:light_gray_concrete,minecraft:lime_concrete,minecraft:magenta_concrete,minecraft:pink_concrete,minecraft:orange_concrete,minecraft:purple_concrete,minecraft:white_concrete,minecraft:green_concrete,minecraft:yellow_concrete,minecraft:red_concrete,minecraft:cyan_concrete
+			混凝土粉末属	minecraft:light_blue_concrete_powder,minecraft:black_concrete_powder,minecraft:blue_concrete_powder,minecraft:brown_concrete_powder,minecraft:gray_concrete_powder,minecraft:green_concrete_powder,minecraft:lime_concrete_powder,minecraft:magenta_concrete_powder,minecraft:light_gray_concrete_powder,minecraft:purple_concrete_powder,minecraft:orange_concrete_powder,minecraft:cyan_concrete_powder,minecraft:pink_concrete_powder,minecraft:red_concrete_powder,minecraft:white_concrete_powder,minecraft:yellow_concrete_powder
+			遮光玻璃	minecraft:tinted_glass
+			玻璃属	minecraft:light_blue_stained_glass,minecraft:black_stained_glass,minecraft:glass,minecraft:pink_stained_glass,minecraft:blue_stained_glass,minecraft:cyan_stained_glass,minecraft:lime_stained_glass,minecraft:magenta_stained_glass,minecraft:orange_stained_glass,minecraft:brown_stained_glass,minecraft:light_gray_stained_glass,minecraft:gray_stained_glass,minecraft:red_stained_glass,minecraft:purple_stained_glass,minecraft:green_stained_glass,minecraft:yellow_stained_glass,minecraft:white_stained_glass
+			玻璃板属	minecraft:light_blue_stained_glass_pane,minecraft:black_stained_glass_pane,minecraft:glass_pane,minecraft:blue_stained_glass_pane,minecraft:light_gray_stained_glass_pane,minecraft:pink_stained_glass_pane,minecraft:orange_stained_glass_pane,minecraft:purple_stained_glass_pane,minecraft:magenta_stained_glass_pane,minecraft:green_stained_glass_pane,minecraft:gray_stained_glass_pane,minecraft:lime_stained_glass_pane,minecraft:cyan_stained_glass_pane,minecraft:red_stained_glass_pane,minecraft:white_stained_glass_pane,minecraft:yellow_stained_glass_pane,minecraft:brown_stained_glass_pane
+		shulker_box		
+			潜影盒属	minecraft:light_blue_shulker_box,minecraft:shulker_box,minecraft:black_shulker_box,minecraft:blue_shulker_box,minecraft:cyan_shulker_box,minecraft:light_gray_shulker_box,minecraft:lime_shulker_box,minecraft:magenta_shulker_box,minecraft:green_shulker_box,minecraft:orange_shulker_box,minecraft:brown_shulker_box,minecraft:purple_shulker_box,minecraft:gray_shulker_box,minecraft:red_shulker_box,minecraft:white_shulker_box,minecraft:pink_shulker_box,minecraft:yellow_shulker_box
+			潜影壳	minecraft:shulker_shell
+arm				
+	fight			
+		armor		
+			胸甲属	minecraft:diamond_chestplate,minecraft:iron_chestplate,minecraft:chainmail_chestplate,minecraft:golden_chestplate,minecraft:netherite_chestplate,minecraft:leather_chestplate
+			头盔属	minecraft:diamond_helmet,minecraft:iron_helmet,minecraft:turtle_helmet,minecraft:chainmail_helmet,minecraft:golden_helmet,minecraft:netherite_helmet,minecraft:leather_helmet
+			鳞甲	minecraft:scute
+			护腿属	minecraft:diamond_leggings,minecraft:iron_leggings,minecraft:chainmail_leggings,minecraft:golden_leggings,minecraft:netherite_leggings,minecraft:leather_leggings
+			靴子属	minecraft:diamond_boots,minecraft:iron_boots,minecraft:chainmail_boots,minecraft:golden_boots,minecraft:netherite_boots,minecraft:leather_boots
+		bauble		
+			不死图腾	minecraft:totem_of_undying
+		weapon		
+			剑属	minecraft:diamond_sword,minecraft:iron_sword,minecraft:wooden_sword,minecraft:stone_sword,minecraft:golden_sword,minecraft:netherite_sword
+			三叉戟	minecraft:trident
+			弩	minecraft:crossbow
+			弓	minecraft:bow
+			盾牌	minecraft:shield
+		ammunition		
+			箭属	minecraft:arrow,minecraft:tipped_arrow,minecraft:spectral_arrow
+			火焰弹	minecraft:fire_charge
+			烟火之星	minecraft:firework_star
+			烟花火箭	minecraft:firework_rocket
+			末地水晶	minecraft:end_crystal
+			TNT	minecraft:tnt
+	food			
+		plant		
+			苹果	minecraft:apple
+			金苹果属	minecraft:golden_apple,minecraft:enchanted_golden_apple
+			马铃薯	minecraft:potato
+			烤马铃薯	minecraft:baked_potato
+			毒马铃薯	minecraft:poisonous_potato
+			甜菜根	minecraft:beetroot
+			面包	minecraft:bread
+			曲奇	minecraft:cookie
+			西瓜片	minecraft:melon_slice
+			干海带	minecraft:dried_kelp
+			西瓜	minecraft:melon
+			甜浆果	minecraft:sweet_berries
+			干海带块	minecraft:dried_kelp_block
+			南瓜派	minecraft:pumpkin_pie
+			胡萝卜	minecraft:carrot
+		aminal		
+			熟猪排	minecraft:cooked_porkchop
+			生猪排	minecraft:porkchop
+			生鸡肉	minecraft:chicken
+			熟鸡肉	minecraft:cooked_chicken
+			生兔肉	minecraft:rabbit
+			熟兔肉	minecraft:cooked_rabbit
+			生羊肉	minecraft:mutton
+			熟羊肉	minecraft:cooked_mutton
+			生鳕鱼	minecraft:cod
+			生鲑鱼	minecraft:salmon
+			热带鱼	minecraft:tropical_fish
+			熟鳕鱼	minecraft:cooked_cod
+			熟鲑鱼	minecraft:cooked_salmon
+			生牛肉	minecraft:beef
+			牛排	minecraft:cooked_beef
+		other		
+			蘑菇煲	minecraft:mushroom_stew
+			碗	minecraft:bowl
+			甜菜汤	minecraft:beetroot_soup
+			兔肉煲	minecraft:rabbit_stew
+			腐肉	minecraft:rotten_flesh
+			蛋糕	minecraft:cake
+	tool			
+		apsh		
+			镐属	minecraft:diamond_pickaxe,minecraft:wooden_pickaxe,minecraft:stone_pickaxe,minecraft:golden_pickaxe,minecraft:netherite_pickaxe,minecraft:iron_pickaxe
+			斧属	minecraft:diamond_axe,minecraft:wooden_axe,minecraft:stone_axe,minecraft:golden_axe,minecraft:iron_axe,minecraft:netherite_axe
+			锹属	minecraft:diamond_shovel,minecraft:wooden_shovel,minecraft:stone_shovel,minecraft:golden_shovel,minecraft:netherite_shovel,minecraft:iron_shovel
+			锄属	minecraft:diamond_hoe,minecraft:wooden_hoe,minecraft:stone_hoe,minecraft:golden_hoe,minecraft:netherite_hoe,minecraft:iron_hoe
+		normal		
+			铁桶	minecraft:bucket
+			水桶	minecraft:water_bucket
+			熔岩桶	minecraft:lava_bucket
+			奶桶	minecraft:milk_bucket
+			细雪桶	minecraft:powder_snow_bucket
+			生物桶属	minecraft:salmon_bucket,minecraft:cod_bucket,minecraft:pufferfish_bucket,minecraft:tropical_fish_bucket,minecraft:axolotl_bucket,minecraft:tadpole_bucket
+			剪刀	minecraft:shears
+			打火石	minecraft:flint_and_steel
+			望远镜	minecraft:spyglass
+			拴绳	minecraft:lead
+		information		
+			书	minecraft:book
+			书与笔	minecraft:writable_book
+			成书	minecraft:written_book
+			纸	minecraft:paper
+			地图属	minecraft:map,minecraft:filled_map
+			指南针	minecraft:compass
+			回响碎片	minecraft:echo_shard
+			追溯指针	minecraft:recovery_compass
+			时钟	minecraft:clock
+			物品展示框属	minecraft:item_frame,minecraft:glow_item_frame
+			告示牌属	minecraft:birch_sign,minecraft:acacia_sign,minecraft:dark_oak_sign,minecraft:crimson_sign,minecraft:jungle_sign,minecraft:oak_sign,minecraft:spruce_sign,minecraft:warped_sign,minecraft:mangrove_sign
+			命名牌	minecraft:name_tag
+			画	minecraft:painting
